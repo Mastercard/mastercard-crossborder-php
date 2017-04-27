@@ -1,0 +1,152 @@
+{
+    "event": "suiteStart",
+    "suite": "Application Test Suite",
+    "tests": 11
+}{
+    "event": "suiteStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "tests": 11
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_112_example_quotes_1"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_112_example_quotes_1",
+    "status": "pass",
+    "time": 27.419991970062,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_113_example_quotes_2"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_113_example_quotes_2",
+    "status": "pass",
+    "time": 22.337890863419,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_115_example_payment"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_115_example_payment",
+    "status": "pass",
+    "time": 4.789167881012,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_120_example_retrieve_payment_by_id"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_120_example_retrieve_payment_by_id",
+    "status": "pass",
+    "time": 0.4087860584259,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_121_example_retrieve_payment_by_reference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_121_example_retrieve_payment_by_reference",
+    "status": "pass",
+    "time": 0.39605593681335,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_123_example_quotes_3"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_123_example_quotes_3",
+    "status": "pass",
+    "time": 4.46852684021,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_125_example_payment_1"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_125_example_payment_1",
+    "status": "pass",
+    "time": 2.8725249767303,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_127_example_cancel_payment"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_127_example_cancel_payment",
+    "status": "pass",
+    "time": 2.3401670455933,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_303_SanctionScreening_NonTokenized"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_303_SanctionScreening_NonTokenized",
+    "status": "pass",
+    "time": 0.42094898223877,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_304_SanctionScreeningBy_Tokenized_ConsumerId"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_304_SanctionScreeningBy_Tokenized_ConsumerId",
+    "status": "pass",
+    "time": 0.32281017303467,
+    "trace": [],
+    "message": "",
+    "output": ""
+}{
+    "event": "testStart",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_305_SanctionScreening_Tokenized_ConsumerReference"
+}{
+    "event": "test",
+    "suite": "MasterCard\\Api\\Crossborder\\AllTest",
+    "test": "MasterCard\\Api\\Crossborder\\AllTest::test_305_SanctionScreening_Tokenized_ConsumerReference",
+    "status": "pass",
+    "time": 0.33749508857727,
+    "trace": [],
+    "message": "",
+    "output": ""
+}

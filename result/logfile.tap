@@ -1,0 +1,13 @@
+TAP version 13
+ok 1 - MasterCard\Api\Crossborder\AllTest::test_112_example_quotes_1
+ok 2 - MasterCard\Api\Crossborder\AllTest::test_113_example_quotes_2
+ok 3 - MasterCard\Api\Crossborder\AllTest::test_115_example_payment
+ok 4 - MasterCard\Api\Crossborder\AllTest::test_120_example_retrieve_payment_by_id
+ok 5 - MasterCard\Api\Crossborder\AllTest::test_121_example_retrieve_payment_by_reference
+ok 6 - MasterCard\Api\Crossborder\AllTest::test_123_example_quotes_3
+ok 7 - MasterCard\Api\Crossborder\AllTest::test_125_example_payment_1
+ok 8 - MasterCard\Api\Crossborder\AllTest::test_127_example_cancel_payment
+ok 9 - MasterCard\Api\Crossborder\AllTest::test_303_SanctionScreening_NonTokenized
+ok 10 - MasterCard\Api\Crossborder\AllTest::test_304_SanctionScreeningBy_Tokenized_ConsumerId
+ok 11 - MasterCard\Api\Crossborder\AllTest::test_305_SanctionScreening_Tokenized_ConsumerReference
+1..11

@@ -1,0 +1,13 @@
+MasterCard\Api\Crossborder\All
+ [x] 112 example quotes 1
+ [x] 113 example quotes 2
+ [x] 115 example payment
+ [x] 120 example retrieve payment by id
+ [x] 121 example retrieve payment by reference
+ [x] 123 example quotes 3
+ [x] 125 example payment 1
+ [x] 127 example cancel payment
+ [x] 303 SanctionScreening NonTokenized
+ [x] 304 SanctionScreeningBy Tokenized ConsumerId
+ [x] 305 SanctionScreening Tokenized ConsumerReference
+
